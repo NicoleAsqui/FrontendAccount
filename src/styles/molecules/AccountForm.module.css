@@ -1,0 +1,16 @@
+.formContainer {
+    display: flex;
+    align-items: center;
+    margin-bottom: 16px;
+    gap: 16px; 
+}
+
+.textField {
+    margin-left: 16px;
+}
+
+.selectField {
+    margin-left: 16px;
+    padding-bottom: 16px;
+    width:200px;
+}
